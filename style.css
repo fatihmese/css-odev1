@@ -1,0 +1,19 @@
+h1 {
+    color: black; background-color: yellow; max-width: 500px; margin-right: auto;
+    margin-left: auto; text-align: center;font-size: 44px;
+}
+.nav {
+    text-align: center;
+}
+.navitem {
+    margin-right: 1.5em;
+}
+h2 {
+    color: black; max-width: 500px; margin-right: auto;
+    margin-left: auto; text-align: center;font-size: 36px;
+}
+h3 {
+    color: black; max-width: 500px; margin-right: auto;
+    margin-left: auto; text-align: center;
+    
+}
